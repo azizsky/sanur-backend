@@ -4,6 +4,7 @@ const { getProducts, saveProducts } = require("../models/productModel.js");
 
 const productsFilePath = path.join(__dirname, "../data/product.json");
 
+
 // Fungsi untuk membuat produk baru
 const createProduct = (req, res) => {
   try {
@@ -42,6 +43,8 @@ const createProduct = (req, res) => {
       shopeeLink,
       coverImage,
       images,
+      createdAt: new Date().toISOString(), // Tambahkan timestamp di sini
+
     };
 
     // Ambil produk yang sudah ada dan simpan produk baru
@@ -180,7 +183,6 @@ const getProductById = (req, res) => {
     res.json(product);
   });
 };
-
 
 
 module.exports = { createProduct, getAllProducts, deleteProduct, updateProduct, getProductById };

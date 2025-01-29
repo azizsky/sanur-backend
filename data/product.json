@@ -1,2 +1,45 @@
 [
+  {
+    "id": "urgb",
+    "name": "Gamis AlFatih",
+    "description": "bsjsjsjsjdjdbdbdvdbdjdjdj",
+    "color": "hitam putih navy sage",
+    "price": 40000,
+    "category": "Jubah-Pria",
+    "shopeeLink": "",
+    "coverImage": "tmo877.jpg",
+    "images": [
+      "jf4y8a.jpg",
+      "izbxth.jpg"
+    ],
+    "createdAt": "2025-01-29T10:22:32.540Z"
+  },
+  {
+    "id": "6np0",
+    "name": "Baju Koko Premium",
+    "description": "hehsjsjhssbsv",
+    "color": "black",
+    "price": 39399,
+    "category": "Kemeja-Koko",
+    "shopeeLink": "https://shopee",
+    "coverImage": "79xwoe.jpg",
+    "images": [
+      "xpjjee.jpg"
+    ],
+    "createdAt": "2025-01-29T11:02:52.020Z"
+  },
+  {
+    "id": "4o6y",
+    "name": "Baju koko Elegan",
+    "description": "blalalal",
+    "color": "putih",
+    "price": 39399,
+    "category": "Kemeja-Koko",
+    "shopeeLink": "https://shopee",
+    "coverImage": "q86q6y.jpg",
+    "images": [
+      "gvy9jr.jpg"
+    ],
+    "createdAt": "2025-01-29T11:03:30.470Z"
+  }
 ]

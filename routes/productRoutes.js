@@ -27,4 +27,6 @@ router.put("/:id", upload.fields([
 router.get('/:id', getProductById);
 
 
+
+
 module.exports = router;
