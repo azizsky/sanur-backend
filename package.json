@@ -9,5 +9,15 @@
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC"
+=======
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+>>>>>>> 508cbdc (a)
 }
