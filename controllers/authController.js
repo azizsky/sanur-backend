@@ -5,15 +5,18 @@ const secretKey = 'your_secret_key'; // Ganti dengan secret key yang aman
 const users = [
   {
     username: 'Aziz',
-    password: 'z',
+    password: '123',
+  },
+  {username: 'admin',
+  password: '123'
   },
   {
-    username: 'admin',
+    username: 'jenal',
     password: '123',
   },
   {
-    username: 'admin2',
-    password: 'mypassword',
+    username: 'Latip',
+    password: '123',
   },
 ];
 
